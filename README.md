@@ -1,5 +1,8 @@
 # QuietMove Chess
 
+![QuietMove Chess](./docs/QuietMove_example.png)
+
+
 ### Juega una partida. Detente. Pregunta por qué.
 
 QuietMove es un escritorio de estudio para aprender ajedrez jugando. El tablero y Stockfish funcionan localmente; el profesor aparece solo cuando haces una pregunta y utiliza la API que tú configures.
