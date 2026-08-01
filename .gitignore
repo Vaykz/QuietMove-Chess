@@ -1,0 +1,27 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+coverage/
+artifacts/
+*.local
+.quietmove-dev*.log
+.DS_Store
+
+# Local credentials and provider configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+
+# Personal exports and local editor state
+quietmove-partida-*.json
+quietmove-*.pgn
+.vscode/
+.idea/
+
+# Operating-system files
+Thumbs.db
+Desktop.ini
