@@ -72,9 +72,6 @@ Antes de abrir un pull request, comprueba ambos temas, español e inglés, los d
 
 ## Documentación del proyecto
 
-- [Guía de diseño web con personalidad](./GUIA_DISENO_WEB_CON_PERSONALIDAD.md)
-- [Auditoría visual y límites de diseño](./docs/AUDITORIA_VISUAL.md)
-- [Especificación y decisiones de QuietMove](./QuietMove%20Chess.md)
 - [Atribuciones de terceros](./THIRD_PARTY_NOTICES.md)
 
 ## Licencia
